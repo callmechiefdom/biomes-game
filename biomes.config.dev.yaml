@@ -27,3 +27,6 @@ animaGlobalSpawnLimit: 2000
 
 # Faster flush periods for local map generation.
 mapTileFlushPeriodMs: 60000
+
+# Disable Discord web hooks by adding:
+discordHooksEnabled: false
